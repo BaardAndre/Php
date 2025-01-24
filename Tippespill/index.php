@@ -21,7 +21,7 @@
         if ($tall == $riktigTall) {
             echo "<p>Gratulerer! Du tippet riktig tall!</p>";
         } else {
-            echo "<p>Du tippet feil tall. Prøv igjen!</p>";
+            echo "<p>Du tippet feil tall. Prøv igjen.</p>";
         }
     }
     ?>
