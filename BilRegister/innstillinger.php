@@ -16,6 +16,16 @@
         <nav class="w-full">
                 <?php include 'components/nav.php'; ?>
         </nav>
+
+        <div class="text-white text-center mx-auto my-auto flex flex-col items-center justify-center p-5 bg-gray-800 rounded-xl">
+            <p class="text-2xl mb-[1rem]">Logg ut</p>
+            <div class="w-[10rem] h-10 bg-red-600 rounded-full text-white flex items-center justify-center">
+                <?php
+                    include 'components/loggUtModal.php';
+                ?>
+            </div>
+        </div>
+
     </main>
 </body>
 </html>

@@ -6,7 +6,7 @@
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body>
-    <nav class="w-full bg-gray-800 text-white py-4 mb-5 flex items-center justify-between px-10">
+    <nav class="w-full bg-gray-800 text-white py-4  flex items-center justify-between px-10">
         <a href="index.php"><img src="images/Logo.png" alt="Logo" class="w-[10rem]"></a>
         <div class="flex items-center space-x-4 ml-auto">
             <a href="registrer.php" class="text-xl">Bilregister</a>
